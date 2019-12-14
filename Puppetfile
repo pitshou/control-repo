@@ -2,7 +2,7 @@ forge 'https://forge.puppet.com'
 
 mod 'puppetlabs-ntp', '8.2.0'
 
-mod 'apache'
+mod 'apache',
   :git => 'https://github.com/pitshou/testing-1'
 
 # Modules from the Puppet Forge
